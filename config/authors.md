@@ -14,7 +14,7 @@ Esther Rolf
 Laura Dee
 Oisin Mac Aodha
 Sara Beery
-Maxin Neumann
+Maxim Neumann
 Drew Purves
 James Oakleaf
 Maria Voigt
@@ -22,7 +22,7 @@ Christina Kennedy
 David Theobald
 Jasper Slingsby
 Adam M Wilson
-Sally Archiblad
+Sally Archibald
 Zander Venter
 Jorge G. Álvarez-Romero
 Tim Boucher
