@@ -134,9 +134,12 @@ Where "index" is the paper number (1-based), "topic" is the interest number (1-b
             continue
 
         for entry in scores:
-            idx = entry.get("index", 0) - 1
-            topic_idx = entry.get("topic", 0) - 1
-            score = entry.get("score", 0)
+            idx = (entry.get("index") or 0) - 1
+            topic_num = entry.get("topic")
+            score = entry.get("score") or 0
+            if topic_num is None or score == 0:
+                continue
+            topic_idx = topic_num - 1
             if 0 <= idx < len(batch) and 0 <= topic_idx < len(topics):
                 batch[idx].relevance_score = score
                 batch[idx].matched_topic = topics[topic_idx].label
@@ -189,7 +192,7 @@ Return ONLY a JSON array: [{{"index": 1, "summary": "This paper..."}}, ...]"""
             continue
 
         for entry in summaries:
-            idx = entry.get("index", 0) - 1
+            idx = (entry.get("index") or 0) - 1
             if 0 <= idx < len(batch):
                 batch[idx].summary = entry.get("summary")
 
