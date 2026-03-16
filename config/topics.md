@@ -1,26 +1,20 @@
 #Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+Research on the use of machine learning and AI to advance the modelling of environmental exposures of the exposome. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with epidemiological applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into epidemiology.
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#Causal Epidemiology
+Causal epidemiology studies in environmental epidemiology that apply causal inference frameworks to estimate the health effects of environmental exposures. Particular interest in research incorporating spatial or spatiotemporal analyses of exposure, as well as the use of causal machine learning approaches (e.g., causal forests, double/debiased machine learning, targeted learning). Includes both methodological developments and applied studies addressing confounding, complex exposure structures, and spatial dependence, while excluding studies that rely solely on associational models without a causal interpretation.
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
-
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
-
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
-
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
-
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
+#Remote Sensing in Epidemiology
+Remote sensing applications in epidemiology that use satellite or other remote sensing data products to approximate or quantify exposure to environmental stressors. Focus on studies integrating remote sensing–derived variables (e.g., air pollution, temperature, vegetation, land use, urbanization, or climate indicators) into epidemiological analyses to assess associations or causal effects on health outcomes. Includes both methodological developments and applied studies involving spatial or spatiotemporal exposure assessment, environmental monitoring, and integration of remote sensing data with epidemiological or health datasets.
 
 #Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
+Global biodiversity research using large-scale or global biodiversity datasets to investigate macroecological patterns and processes. Includes studies analyzing global or continental-scale biodiversity data to generate new insights into species distributions, diversity patterns, ecosystem dynamics, or biodiversity change. Also includes research describing the development, integration, or validation of new global biodiversity datasets, biodiversity indicators, or data infrastructures supporting large-scale ecological analyses. And everything that relates biodiversity data and epidemiological analysis
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Pesticide exposure
+Studies developing or applying spatial models to estimate pesticide exposure, particularly those using geographic information systems (GIS), spatial analysis, or geospatial data integration. Includes research on the modelling of pesticide use, drift, environmental dispersion, and population exposure based on agricultural, land-use, meteorological, or environmental datasets. Covers both methodological developments and applied studies focused on GIS-based pesticide exposure assessment and spatial exposure modelling.
+
+#Wildfire
+Wildfire-related research in epidemiology examining the health impacts of wildfire exposure, particularly studies that quantify or model population exposure to wildfire smoke or other wildfire-related environmental hazards. Includes work using spatial or spatiotemporal methods, remote sensing, air pollution modelling, or GIS-based exposure assessment to link wildfire activity (e.g., smoke, particulate matter, burned area) with health outcomes. Covers both methodological developments and applied epidemiological studies investigating short- or long-term health effects of wildfire exposure.
+
+#Disturbances and Forests
+Forest disturbance research examining the modelling and analysis of disturbances such as deforestation, forest degradation, wildfires, pests, storms, and land-use change. Includes studies developing spatial or spatiotemporal models to detect, map, or predict forest disturbances using remote sensing, ecological data, or environmental datasets. Also includes interdisciplinary research linking forest change or forest disturbances to epidemiological or public health outcomes, such as impacts on disease risk, environmental exposures, ecosystem services, or human health.
