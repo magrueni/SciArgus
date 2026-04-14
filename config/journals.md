@@ -59,3 +59,10 @@ Biometrics
 Statistics in Medicine
 Journal of the American Statistical Association
 Environmental Modelling & Software
+Journal of Allergy and Clinical Immunology
+Lancet Public Health
+Lancet Planetary Health
+Journal of Exposure Science and Environmental Epidemiology
+European Journal of Epidemiology
+Epidemiology
+European Respiratory Journal
