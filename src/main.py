@@ -29,7 +29,7 @@ def _date_range_label() -> str:
 
 
 def _select_topic_papers(
-    papers: list, topics: list, max_total: int = 10
+    papers: list, topics: list, max_total: int = 20
 ) -> list[TopicSection]:
     """Select up to max_total papers distributed across topics."""
     # Group papers by matched_topic
