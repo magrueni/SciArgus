@@ -1,7 +1,3 @@
-bioRxiv
-arXiv
-EcoEvoRxiv
-EarthArXiv
 Nature
 Science
 Proceedings of the National Academy of Sciences
